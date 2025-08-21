@@ -54,15 +54,15 @@ Here are some examples of what you’ll find inside:
 
 
 
-\- 🛒 \*\*Top Customers\*\* → Who placed the most orders?  
+🛒 \*\*Top Customers\*\* → Who placed the most orders?  
 
-\- 💰 \*\*Profit by Category\*\* → Which product categories drive the most profit?  
+💰 \*\*Profit by Category\*\* → Which product categories drive the most profit?  
 
-\- 🏬 \*\*Regional Performance\*\* → Sales trends across different regions  
+🏬 \*\*Regional Performance\*\* → Sales trends across different regions  
 
-\- 📅 \*\*Monthly Sales\*\* → Best-performing months  
+📅 \*\*Monthly Sales\*\* → Best-performing months  
 
-\- 📦 \*\*Order Trends\*\* → Which sub-categories struggle with profit?  
+📦 \*\*Order Trends\*\* → Which sub-categories struggle with profit?  
 
 
 
@@ -121,6 +121,7 @@ If you’re someone exploring \*\*SQL + Data Analysis\*\*, this notebook is a pr
 
 
 ⭐ If you like this project, don’t forget to \*\*star this repo\*\*! ⭐
+
 
 
 

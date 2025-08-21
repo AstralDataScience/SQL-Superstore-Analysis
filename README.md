@@ -1,10 +1,10 @@
-\# 📊 SQL Superstore Analysis
+# 📊 SQL Superstore Analysis
 
 
 
-Welcome to my \*\*SQL Analysis Project\*\*! 🚀  
+Welcome to my *SQL Analysis Project*! 🚀  
 
-This project explores the famous \*\*Superstore dataset\*\* using SQL queries inside Jupyter Notebook.  
+This project explores the famous #Superstore dataset using SQL queries inside Jupyter Notebook.  
 
 The goal? To uncover business insights from sales, profit, and customer data in a simple, structured way.  
 
@@ -14,15 +14,15 @@ The goal? To uncover business insights from sales, profit, and customer data in 
 
 
 
-\## ✨ What’s Inside?
+# ✨ What’s Inside?
 
-\- ✅ SQL queries to answer real business questions  
+✅ SQL queries to answer real business questions  
 
-\- ✅ Jupyter Notebook format (`.ipynb`) for clean execution + explanation  
+✅ Jupyter Notebook format (`.ipynb`) for clean execution + explanation  
 
-\- ✅ Beginner-friendly explanations after each query  
+✅ Beginner-friendly explanations after each query  
 
-\- ✅ Covers everything from simple aggregations to advanced analysis  
+✅ Covers everything from simple aggregations to advanced analysis  
 
 
 
@@ -30,7 +30,7 @@ The goal? To uncover business insights from sales, profit, and customer data in 
 
 
 
-\## 📂 Project Structure
+# 📂 Project Structure
 
 SQL-Analysis-Queries/
 
@@ -48,7 +48,7 @@ SQL-Analysis-Queries/
 
 
 
-\## 🔑 Key Queries Covered
+# 🔑 Key Queries Covered
 
 Here are some examples of what you’ll find inside:
 
@@ -70,7 +70,7 @@ Here are some examples of what you’ll find inside:
 
 
 
-\## 🛠️ Tools \& Tech
+# 🛠️ Tools \& Tech
 
 \- \*\*SQL\*\* – Querying and analysis  
 
@@ -84,7 +84,7 @@ Here are some examples of what you’ll find inside:
 
 
 
-\## 📸 Sneak Peek
+# 📸 Sneak Peek
 
 !\[SQL Analysis Demo](https://img.shields.io/badge/SQL-Notebook-blue?style=flat-square\&logo=sqlite)
 
@@ -94,7 +94,7 @@ Here are some examples of what you’ll find inside:
 
 
 
-\## 🚀 Why This Project?
+# 🚀 Why This Project?
 
 I created this project to \*\*sharpen my SQL skills\*\* and present insights in a clean, easy-to-follow way.  
 
@@ -106,7 +106,7 @@ If you’re someone exploring \*\*SQL + Data Analysis\*\*, this notebook is a pr
 
 
 
-\## 🤝 Connect with Me
+# 🤝 Connect with Me
 
 👩‍💻 \*\*Kaihkasha Parveen\*\*  
 
@@ -121,6 +121,7 @@ If you’re someone exploring \*\*SQL + Data Analysis\*\*, this notebook is a pr
 
 
 ⭐ If you like this project, don’t forget to \*\*star this repo\*\*! ⭐
+
 
 
 

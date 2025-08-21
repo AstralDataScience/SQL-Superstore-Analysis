@@ -54,15 +54,15 @@ Here are some examples of what you’ll find inside:
 
 
 
-🛒 \*\*Top Customers\*\* → Who placed the most orders?  
+🛒  Top Customers → Who placed the most orders?  
 
-💰 \*\*Profit by Category\*\* → Which product categories drive the most profit?  
+💰  Profit by Category → Which product categories drive the most profit?  
 
-🏬 \*\*Regional Performance\*\* → Sales trends across different regions  
+🏬  Regional Performance → Sales trends across different regions  
 
-📅 \*\*Monthly Sales\*\* → Best-performing months  
+📅  Monthly Sales  → Best-performing months  
 
-📦 \*\*Order Trends\*\* → Which sub-categories struggle with profit?  
+📦  Order Trends  → Which sub-categories struggle with profit?  
 
 
 
@@ -72,11 +72,11 @@ Here are some examples of what you’ll find inside:
 
 # 🛠️ Tools \& Tech
 
-\- \*\*SQL\*\* – Querying and analysis  
+SQL – Querying and analysis  
 
-\- \*\*Jupyter Notebook\*\* – Interactive execution + explanation  
+Jupyter Notebook – Interactive execution + explanation  
 
-\- \*\*SQLite / SQLAlchemy\*\* – Database connection inside Python  
+SQLite / SQLAlchemy – Database connection inside Python  
 
 
 
@@ -96,9 +96,9 @@ Here are some examples of what you’ll find inside:
 
 # 🚀 Why This Project?
 
-I created this project to \*\*sharpen my SQL skills\*\* and present insights in a clean, easy-to-follow way.  
+I created this project to sharpen my SQL skills and present insights in a clean, easy-to-follow way.  
 
-If you’re someone exploring \*\*SQL + Data Analysis\*\*, this notebook is a practical guide to get started!  
+If you’re someone exploring SQL + Data Analysis, this notebook is a practical guide to get started!  
 
 
 
@@ -108,7 +108,7 @@ If you’re someone exploring \*\*SQL + Data Analysis\*\*, this notebook is a pr
 
 # 🤝 Connect with Me
 
-👩‍💻 \*\*Kaihkasha Parveen\*\*  
+👩‍💻 Kaihkasha Parveen
 
 📧 Email: shaikhkaihkasha1454@gmail.com  
 
@@ -121,6 +121,7 @@ If you’re someone exploring \*\*SQL + Data Analysis\*\*, this notebook is a pr
 
 
 ⭐ If you like this project, don’t forget to \*\*star this repo\*\*! ⭐
+
 
 
 
